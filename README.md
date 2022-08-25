@@ -14,7 +14,7 @@
 
 
 Contact
-📫 Do reach me and lets make an addition in revolutionising of the world 
+📫 Do reach me and lets make an addition positively revolutionising of the world 
 
 
 Peace!!!
