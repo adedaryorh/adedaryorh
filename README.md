@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**adedaryorh/adedaryorh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm Adedayo, a Software Engineer!
+🔭 I’m currently working at ITEX integrated service FinTech Institution.
+🌍 We are located in Nigeria, Victoria Island Lagos.
+💻 I work mainly with Golang, Python[Flask] and currently building and perfecting my skills with Java [springbooth] for Backend development...
+☁ Have been aquatinted and train as a  Cloud Engineer (Azure and AWS)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛵 I'm an enthusiastic bicycle racer and love playing football.
+👩🏽‍🎓 I’m currently learning: Artificial Intelligence and Ethics in Design.
+🧳 Travelling is always the best plan for me especially to FRANCE and SPAIN.
+🎟️ Festivals, concerts, theater and other parties are not really my favorites.
+
+
+Contact
+📫 How to reach me and lets make an addition in revolutionising of the world 
+
+
+Peace!!!
