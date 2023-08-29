@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👩‍💻 I'm Adedayo, a Software Engineer!
-🔭 I’m previously working at ITEX integrated service FinTech Institution.
+🔭 I’m Currently working at ITEX integrated service FinTech Institution.
 🌍 located in Nigeria, Victoria Island Lagos.
 💻 I am currently perfecting my skills with Java [springboot] for Backend development...
 ☁ Have been aquatinted and train as a  Cloud Engineer (AWS)
